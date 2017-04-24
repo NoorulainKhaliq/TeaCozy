@@ -84,3 +84,19 @@ h2, h3, h4 {
 .item {
   padding: 5px;
 }
+
+/* Locations */
+#locations {
+  background-image: url("/Users/Noorulain/TeaCozy/resources/images/cup.jpg");
+  height: 500px;
+  width: 100%;
+  padding-top: 75px;
+}
+.location {
+  align-items: center;
+  background-color: black;
+  width: 300px;
+  margin-right: 40px;
+  margin-top: 15px;
+  opacity: 1;
+}
